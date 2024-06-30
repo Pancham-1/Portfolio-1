@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0;
     padding: 0;
@@ -9,6 +11,7 @@
     font-family: "Poppins", sans-serif;
 }
 
+
 :root{
     --bg-color: #080808;
     --second-color: #131313;
@@ -17,7 +20,7 @@
 }
 
 html{
-    font-size: 60% ;
+    font-size: 70% ;
     overflow-x: hidden;   
 }
 
@@ -25,6 +28,8 @@ body{
     background-color: var(--bg-color);
     color: var(--text-color);
 }
+
+
 
 .header{
     position: fixed;
